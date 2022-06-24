@@ -56,3 +56,22 @@ While we've got advice about running an open source project, we're not lawyers. 
 [28]:https://github.com/wooorm
 [29]:https://github.com/sophshep
 [30]:https://github.com/jeejkang
+[31]:https://github.com/mater3x
+[32]:https://github.com/0x123s
+[33]:https://github.com/aivolt1
+
+## New ERA
+Thanks to everyone ^ for previous work, but
+
+ ( ; It's time to put the De in centralized ;) 
+
+## A 
+
+new Multi-Layer standard
+Testing to run 158-bit encryption 
+
+# Author 
+
+The People 
+
+**[@mater3x][31], [0x123s][32] , [@aivolt1][33]**
